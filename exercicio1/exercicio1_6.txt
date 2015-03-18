@@ -1,0 +1,2 @@
+No 3 o resultado da divisão foi 0 pelo fato de usar valores inteiros.
+No 4 e 5 o resultado da divisão foi normal, e as outras variáveis ficaram como flutuantes.
