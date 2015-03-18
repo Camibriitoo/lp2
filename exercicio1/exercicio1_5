@@ -10,6 +10,6 @@ public class Exercicio1_4{
           System.out.println ("O valor da soma foi: " + soma);
           System.out.println ("O valor da subtracao foi: " + subtracao);
           System.out.println ("O valor da multiplicacao foi: " + multiplicacao);
-          System.out.println ("O valor da divisao foi: " + divisao);
+          System.out.println ("O valor da divisao foi:" + divisao);
   }
 }
