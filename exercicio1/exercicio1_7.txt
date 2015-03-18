@@ -1,0 +1,5 @@
+V3= 7; V4= 10.5; V5= 10.
+o valor de V4 é maior que o valor de V5, sendo V5 menor que 10.
+O resultado de V5 foi igual a 10 devido ao fato da variável 1 ser inteira e o ponto flutuante ignorado;
+Já V4 o ponto flutuante por usar float, foi considerado.
+
