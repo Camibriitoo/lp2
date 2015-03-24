@@ -1,0 +1,7 @@
+Tipo abstrado de dados é um conjunto de dados e operações que podem ser executadas sobre esses dados.
+
+Classe é uma estrutura que abstrai um conjunto de objetos com características similares. Uma classe define o comportamento de seus objetos através de métodos e os estados possíveis destes objetos através de atributos.
+
+O Objeto da vida a uma definição, é uma instância (ou seja, um exemplar) de uma classe.
+
+Mensagem é uma chamada a um objeto para invocar um de seus métodos, ativando um comportamento descrito por sua classe. 
