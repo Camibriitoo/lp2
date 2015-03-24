@@ -1,0 +1,1 @@
+New é quem instancia um objeto, e quando utilizado, ele trata de reservar memória o suficiente para o objeto e criar automaticamente uma referência a ele.
